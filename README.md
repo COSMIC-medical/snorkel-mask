@@ -21,12 +21,12 @@ COSMIC MEDICAL DISCLAIMS ANY RESPONSIBILITY FOR OR ASSURANCES REGARDING THE QUAL
 
 
 
-YOU UNDERSTAND AND ACKNOWLEDGE THAT: YOU ARE A LEARNED INDIVIDUAL THAT HAS HAD THE OPPORTUNITY TO OBTAIN ANY AND ALL INFORMATION RELEVANT TO THE USE OF ANY DEVICE RESULTING FROM YOUR USE OF THE
+YOU UNDERSTAND AND ACKNOWLEDGE THAT: YOU ARE A LEARNED INDIVIDUAL THAT HAS HAD THE OPPORTUNITY TO OBTAIN ANY AND ALL INFORMATION RELEVANT TO THE USE OF ANY DEVICE RESULTING FROM YOUR USE OF THE CONTENT, INCLUDING THE DESIGN SPECIFICATIONS; YOU HAVE NO OBLIGATION TO USE THE CONTENT, THE DESIGN SPECIFICATIONS OR ANY DEVICE RESULTING THEREFROM AND YOU DO SO IN YOUR SOLE DISCRETION; YOU ARE RESPONSIBLE FOR DETERMINING THE DEGREE OF MONITORING OR OVERSIGHT THAT IS APPROPRIATE IN CONNECTION WITH PATIENT CARE AND THE USE OF ANY DEVICE RESULTING FROM YOUR USE OF THE CONTENT, INCLUDING THE DESIGN SPECIFICATIONS; YOU HAVE ACCEPTED ALL RESPONSIBILITY AND COSMIC MEDICAL RETAINS NO RESPONSIBILITY FOR YOUR USE OF ANY RESULTING DEVICE; AND YOU WILL COMPLY WITH ALL LAWS AND GOVERNMENTAL RULES, REGULATIONS AND GUIDELINES, INCLUDING ANY SAFETY PRECAUTIONS, THAT ARE APPLICABLE TO THE DEVICE OR THE USE THEREOF.
 
-CONTENT, INCLUDING THE DESIGN SPECIFICATIONS; YOU HAVE NO OBLIGATION TO USE THE CONTENT, THE DESIGN SPECIFICATIONS OR ANY DEVICE RESULTING THEREFROM AND YOU DO SO IN YOUR SOLE DISCRETION; YOU ARE RESPONSIBLE FOR DETERMINING THE DEGREE OF MONITORING OR OVERSIGHT THAT IS APPROPRIATE IN CONNECTION WITH PATIENT CARE AND THE USE OF ANY DEVICE RESULTING FROM YOUR USE OF THE CONTENT, INCLUDING THE DESIGN SPECIFICATIONS; YOU HAVE ACCEPTED ALL RESPONSIBILITY AND COSMIC MEDICAL RETAINS NO RESPONSIBILITY FOR YOUR USE OF ANY RESULTING DEVICE; AND YOU WILL COMPLY WITH ALL LAWS AND GOVERNMENTAL RULES, REGULATIONS AND GUIDELINES, INCLUDING ANY SAFETY PRECAUTIONS, THAT ARE APPLICABLE TO THE DEVICE OR THE USE THEREOF.
+## Project Background & SYstem Overview
 
-## Project Background
-Project background goes here
+The COSMIC PPE snorkel mask is designed to function as a reusable combination of a N95 respirator and face shield. Our team has modified a DasMeer full face snorkel mask by adding a 3D printed, custom fit adapter to the top outlet that will allow the mask to be connected to a hospital-grade, high efficiency particulate air (HEPA) filter with 99.99% bacterial and viral filtration efficiency. The purpose of the mask is to provide protection against airborne and droplet particles.
 
-## System Overview
-System overview goes here
+Unfiltered air is drawn through a hospital grade HEPA filter at the top of the mask then respired air is expelled out through a check valve on the lower front of the mask. The intended user populations include health care providers, including, but not limited to, doctors, nurses, first responders, and respiratory therapists, who are in close contact with patients who may be carriers of the COVID-19 virus. The device is intended to be used in hospitals or in the field of work, as is the case for first responders.
+
+These retrofitted respirators have NOT received regulatory approval. Appropriate use, decontamination, and regulatory approval of the design should be directed through your local health authority.
