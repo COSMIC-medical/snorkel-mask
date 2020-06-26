@@ -34,4 +34,4 @@ These retrofitted respirators have NOT received regulatory approval. Appropriate
 ## Installation Instructions
 
 1. Review the Provider Snorkel Mask PPE Project Information brief in this Github repo.
-2. Download the STL files from the Cosmic Meidcal [website](https://cosmicmedical.ca/sm-1913-warnings-disclaimers).
+2. Download the STL files from the [Cosmic Meidcal website](https://cosmicmedical.ca/sm-1913-warnings-disclaimers).
