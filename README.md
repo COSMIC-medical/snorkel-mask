@@ -30,3 +30,8 @@ The COSMIC PPE snorkel mask is designed to function as a reusable combination of
 Unfiltered air is drawn through a hospital grade HEPA filter at the top of the mask then respired air is expelled out through a check valve on the lower front of the mask. The intended user populations include health care providers, including, but not limited to, doctors, nurses, first responders, and respiratory therapists, who are in close contact with patients who may be carriers of the COVID-19 virus. The device is intended to be used in hospitals or in the field of work, as is the case for first responders.
 
 These retrofitted respirators have NOT received regulatory approval. Appropriate use, decontamination, and regulatory approval of the design should be directed through your local health authority.
+
+## Installation Instructions
+
+1. Review the Provider Snorkel Mask PPE Project Information brief in this Github repo.
+2. Download the STL files from the Cosmic Meidcal [website](https://cosmicmedical.ca/sm-1913-warnings-disclaimers).
